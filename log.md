@@ -6,3 +6,4 @@
 - 2026-11-02 00:04 · tweak log
 - 2026-11-02 00:50 · housekeeping
 - 2026-11-02 12:37 · cleanup
+- 2026-11-02 12:37 · minor update
